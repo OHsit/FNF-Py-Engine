@@ -1,0 +1,17 @@
+Planned things :
+  
+v0.1 Beta:
+[X] Clear UP a code
+[X] Dynamic modcharts loading
+[X] Added transitionValue object (used to make a linear transition for a value given a start value, an end value, a start time and an end time)
+[X] Added a value that controls the arrows transparency
+[X] Simple modcharts can edit the arrows alpha (using transitionValue object)
+[X] Fixed transitionValue object math
+[X] Fixed the "You can't run" song
+[X] Adding all mid-song alpha changes
+[X] Simple modcharts can edit the characters alpha (using transitionValue object)
+[X] Allowing loading multiple characters
+[X] Now modcharts can change characters mid-game (Ex: in Sorrow, ben drown switches to alive ben at the end of the song)
+[X] Normal play animations (lamo) [thx: asciidea for code: https://github.com/asciidea/framesxml]
+[X] Revamp a code
+[X] Main menu rework
