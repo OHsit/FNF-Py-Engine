@@ -1,10 +1,8 @@
 # FNF WITH PYTHON!!!!
-Just a FNF
+Just a FNF BUT WITH PYTHON!!!
 
 
-Current version: none (w.i.p0
-
-Check the wiki [here](https://github.com/EndersteveGamer/Friday-night-funkin-with-Pygame/wiki) to mod the game!
+Current version: none (w.i.p)
 
 This game requires Pygame to run the python version, you can download it by typing `python3 -m pip install -U pygame --user` or `py -m pip install -U pygame --user` in a cmd.
 
